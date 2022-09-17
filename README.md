@@ -1,5 +1,15 @@
 ## Código fuente del proyecto
-
+## Project setup
 ```
 npm install
-```"# Plantilla-WebServer-Node-HBS" 
+```
+
+### Init Project
+```
+npm start
+```
+
+### Init Project from nodemon
+```
+npm nodemon
+```
